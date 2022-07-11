@@ -1,4 +1,4 @@
-## X-URL-Uploader (Bot)
+## DL-URL-Uploader (Bot)
 ---
 
 Telegram RoBot to Upload Links.
@@ -15,12 +15,12 @@ Telegram RoBot to Upload Links.
 
 **For Devs**:
 
-👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
+👉 [X-URL-Uploader-dev](https://github.com/yaswanth2009/X-URL-Uploader/tree/dev)
 
 ## Telegram Support:
 
-[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
-[![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/xTeamBotsSupport)
+[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/DL_Bots_Support)
+[![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/DL_Bots_Supports)
 
 ## Credits, and Thanks to:
 
