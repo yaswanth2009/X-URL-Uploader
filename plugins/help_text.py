@@ -50,11 +50,9 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton(
-                            "Source", url="https://github.com/X-Gorn/X-URL-Uploader"
+                            "Update Channel", url="https://t.me/DL_Bots_Update"
                         ),
-                        InlineKeyboardButton("Project Channel", url="https://t.me/xTeamBots"),
-                    ],
-                    [InlineKeyboardButton("Author", url="https://t.me/xgorn")],
+                        InlineKeyboardButton("Supported Group", url="https://t.me/dl_bots_supports"),
                 ]
             ),
             reply_to_message_id=update.message_id
